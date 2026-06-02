@@ -2,3 +2,6 @@
 !private/
 !public/
 !.gitignore
+
+.bfg-report/
+..bfg-report/
