@@ -126,25 +126,5 @@ http://localhost:8000/docs/api
 
 Dokumentasi dibuat secara otomatis menggunakan Scramble.
 
-
-## Development Contributions
-
-Beberapa pengembangan yang dilakukan pada proyek ini meliputi:
-
-- Implementasi autentikasi pengguna, manajemen token, serta fitur forgot password dan reset password berbasis email.
-- Integrasi sistem pembayaran menggunakan Midtrans untuk transaksi order dan fitur booster.
-- Pengembangan sistem notifikasi untuk customer, traveler, dan admin.
-- Implementasi fitur laporan/dispute transaksi beserta alur penanganannya.
-- Pengelolaan data perjalanan (trip) dan pemesanan (order) pada sistem.
-- Perbaikan dan pengembangan fitur Kelola Perjalanan (Trip Management), termasuk pengelolaan data trip, status perjalanan, dan integrasi dengan backend API.
-- Analisis struktur database serta relasi antar tabel pada modul order, transaksi, dan fitur pendukung lainnya.
-- Integrasi dashboard admin dan traveler dengan backend API untuk menampilkan data transaksi, order, monitoring aktivitas, dan statistik secara real-time.
-- Pengembangan serta optimalisasi modul order, termasuk integrasi API, detail transaksi, dan sinkronisasi data dengan backend.
-- Perbaikan bug, debugging, dan pengujian endpoint API menggunakan Postman.
-- Penyempurnaan alur transaksi, komunikasi data antar modul, serta mekanisme pengiriman notifikasi antar pengguna.
-- Peningkatan stabilitas sistem dan pengalaman pengguna melalui perbaikan tampilan serta alur penggunaan pada berbagai fitur frontend.
-- Memperbaiki bug pada modul trip yang sebelumnya masih memungkinkan customer melakukan pemesanan meskipun tanggal dan waktu keberangkatan trip telah terlewati.
-- Mengembangkan dan memperbaiki fitur Iklan (Advertisement), termasuk pengelolaan data iklan, proses approval, dan integrasi dengan sistem backend.
-
-
+## Project Kerja Praktek
 
